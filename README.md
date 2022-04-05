@@ -31,7 +31,7 @@ Additional features:
 
 ### Screenshot
 
-![Blogr landing](./screeshots/landing-page)
+![E-learn-Website](./screeshots/landing-page)
 
 ## My process
 
