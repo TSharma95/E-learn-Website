@@ -31,7 +31,7 @@ Additional features:
 
 ### Screenshot
 
-![E-learn-Website](./screeshots/landing-page)
+![E-learn-Website](./screenshots/landing-page.png)
 
 ## My process
 
